@@ -52,7 +52,15 @@ section div h1{
     font-size: 30px;
     margin-top: 0px;
 }
-.pillar{
+.pillar-container{
     margin-left: 80px;
     margin-right: 80px;
+    display: flex;
+    gap: 24px;
+}
+.head-pillar{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+    margin-top: 50px;
 }
