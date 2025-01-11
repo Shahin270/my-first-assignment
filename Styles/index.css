@@ -1,10 +1,15 @@
-
+.open-sans-normal {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+}
 
 nav div{
     display: flex;
-    justify-content:space-around;
+    justify-content:space-between;
     margin-top: 20px;
     margin-bottom: 10px;
+    margin-left: 80px;
+    margin-right: 80px;
 
     
 }
@@ -152,5 +157,28 @@ section div h1{
 .dr-position{
    color: #726f6f;
     
+}
+.recent-news{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 32px;
+    
+}
+.recent-news-description{
+    color: #726f6f;
+}
+.satelite-full{
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+    gap: 30px;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06); 
+    margin-bottom: 50px;
+}
+.satelite-pic{
+    border-radius: 20px;
 }
 
