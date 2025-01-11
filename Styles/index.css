@@ -324,3 +324,25 @@ margin-right: 90px;
     color: #FFC239;
     border: 1px solid #FFC239;
 }
+.promise-spam{
+    color: #726f6f;
+}
+.social-image{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.last-bd{
+    text-align: center;
+   margin-bottom: 30px;
+   border-bottom: 1px solid #726f6f;
+   
+   margin-left: 80px;
+   margin-right: 80px;
+   
+  
+}
+.foter-design{
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+    
+    
+}
