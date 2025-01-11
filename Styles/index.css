@@ -114,7 +114,7 @@ section div h1{
 .btn-first{
     background-color: #006AFF;
     color: white;
-    height:30px;
+    height:40px;
     width: 100px;
     border: none;
     border-radius: 5px;
@@ -123,7 +123,7 @@ section div h1{
 .btn-second{
     background-color: #09A15C;
     color: white;
-    height:30px;
+    height:40px;
     width: 100px;
     border: none;
     border-radius: 5px;
@@ -133,7 +133,7 @@ section div h1{
 .btn-third{
     background-color: #FFC239;
     color: white;
-    height:30px;
+    height:40px;
     width: 100px;
     border: none;
     border-radius: 5px;
@@ -181,4 +181,146 @@ section div h1{
 .satelite-pic{
     border-radius: 20px;
 }
+.satelite-second{
+    display: flex;
+    gap: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
 
+
+}
+.full-donate{
+margin-left: 90px;
+margin-right: 90px;
+
+}
+.donate-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.donate-description{
+    text-align: center;
+    color: #726f6f;
+}
+.donate-amount{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+
+}
+.donate-taka{
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+    padding: 30px;
+    border: 1px solid #242323;
+}
+.special-taka{
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+    background-color: #C6E4D6;
+    padding: 30px;
+    border: 1px solid #242323;
+}
+.donate-takaa{
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+    padding: 30px;
+    border: 1px solid #242323;
+
+}
+.donate-takaaa{
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+    padding: 30px;
+    border: 1px solid #242323;
+
+}
+.taka-holder{
+    text-align: center;
+    
+    height: 30px;
+    width: 600px;
+    justify-content: center;
+    
+    font-size: 18px;
+    border-radius: 0px;
+    border: none;
+    box-shadow: 0px 6px 50px 0px rgba(26, 19, 19, 0.06);
+    
+}
+.taka-form{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.done-button{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.subscribe-from{
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: #C6E4D6;
+    padding: 50px;
+    margin-bottom: 80px;
+    
+    
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.mail-form{
+    height: 32px;
+    width: 300px;
+    text-align: center;
+    border: 0px;
+    border-radius: 5px;
+}
+.subscribe-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.subscribe-description{
+    font-size: 18px;
+}
+.btn-second:hover{
+   background-color:white ;
+   color: #09A15C;
+    border: 1px solid green;
+}
+.btn-primary:hover{
+    background-color: #09A15C;
+    color: white;
+}
+.btn-secondary:hover{
+    background-color: white;
+    color: #09A15C;
+    border: 1px solid #09A15C;
+}
+.btn-first:hover{
+    background-color: white;
+    color: #006AFF;
+    border: 1px solid #006AFF;
+}
+.btn-third:hover{
+    background-color: white;
+    color: #FFC239;
+    border: 1px solid #FFC239;
+}
